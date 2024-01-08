@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "659b9825b797f3372242b57a"
+  },
+  "id": 1,
+  "idmhs": "3444",
+  "hobi": "Traveling, music, games"
+},
+{
+  "_id": {
+    "$oid": "659b9825b797f3372242b57b"
+  },
+  "id": 2,
+  "idmhs": "3445",
+  "hobi": "Kuliner, memancing, traveling, games"
+},
+{
+  "_id": {
+    "$oid": "659ba31bb797f3372242b58c"
+  },
+  "id": 1,
+  "idmhs": "3444",
+  "hobi": "Traveling, music, games"
+},
+{
+  "_id": {
+    "$oid": "659ba31bb797f3372242b58d"
+  },
+  "id": 2,
+  "idmhs": "3445",
+  "hobi": "Kuliner, memancing, traveling, games"
+},
+{
+  "_id": {
+    "$oid": "659ba31bb797f3372242b58e"
+  },
+  "id": 3,
+  "idmhs": "3446",
+  "hobi": "Olahraga, membaca, menulis"
+},
+{
+  "_id": {
+    "$oid": "659ba31bb797f3372242b58f"
+  },
+  "id": 4,
+  "idmhs": "3447",
+  "hobi": "Belanja, memasak, menonton"
+},
+{
+  "_id": {
+    "$oid": "659ba31bb797f3372242b590"
+  },
+  "id": 5,
+  "idmhs": "3448",
+  "hobi": "Nonton film, traveling, fotografi"
+}]
